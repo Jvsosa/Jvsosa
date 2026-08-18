@@ -8,7 +8,7 @@
 
 Desenvolvedor focado em Lua e Python. Construo sistemas de backend, automações e regras de negócio com foco em segurança e proteção contra exploits — aplicando a lógica de quem conhece as brechas na prática para criar códigos que realmente seguram a onda no servidor.
 
-No front-end, não é meu foco principal, mas desenrolo o que for preciso para deixar a interface funcional e com visual limpo.
+Front-end não é minha praia, mas vibecodo o suficiente para a interface funcionar e ficar com a cara limpa.
 
 ---
 
@@ -17,7 +17,7 @@ No front-end, não é meu foco principal, mas desenrolo o que for preciso para d
 * **Lua:** Scripts modulares, lógica de backend e sistemas otimizados.
 * **Python:** Automações, scripts utilitários e manipulação de dados.
 * **Segurança e Anti-Exploit:** Validações diretas no servidor para evitar manipulação de eventos, injeções e brechas comuns.
-* **Front-end:** Desenvolvimento prático focado na usabilidade.
+* **Front-end:** Puro vibecoding — focado em deixar usável e resolver o problema.
 
 ---
 
