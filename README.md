@@ -31,4 +31,3 @@ Front-end não é minha praia, mas vibecodo o suficiente para a interface funcio
   <img src="https://img.shields.io/badge/Seguranca-Anti--Exploit-8B0000?style=for-the-badge" alt="Anti-Exploit" />
 </p>
 
----
