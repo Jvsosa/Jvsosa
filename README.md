@@ -1,27 +1,28 @@
 # João Vitor F 👋
-### Specialized Systems & Security Engineer
+### Backend & Systems Developer
 
-Core development focused on **Lua** and **Python** for high-performance backend systems, security hardening, and advanced anti-exploit protections. Front-end handled with a functional, pragmatic approach.
+Developer focused on **Lua** and **Python**, applying an offensive-aware mindset to build robust, exploit-resistant backend systems. Skilled in spotting vulnerabilities from a practical perspective and building defensive logic.
 
 ---
 
-### 💻 Main Languages & Tools
+### 💻 Main Languages & Focus
 
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/System%20Security-Shield-critical?style=for-the-badge&logo=auth0&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Defense%20by%20Insight-Practical_Security-critical?style=for-the-badge&logo=auth0&logoColor=white" alt="Practical Security" />
   <img src="https://img.shields.io/badge/Anti--Exploit-Development-black?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Anti-Exploit" />
 </p>
 
 ---
 
-### 🛡️ Specializations & Focus
+### 🛡️ Core Capabilities
 
-* 🔒 **System Security & Hardening:** Architecture design, event validation, and payload integrity checks.
-* ⚡ **Lua Core Development:** High-performance scripts, modular system structures, and optimized server logic.
-* 🐍 **Python Automation:** Backend utilities, data processing tools, and security auditing scripts.
-* 🎨 **UI / Front-End:** Functional design and pragmatic UI delivery.
+* ⚔️ **Practical Threat Awareness:** Experience understanding reverse logic and common exploit vectors to build resilient server architectures.
+* 🔒 **Anti-Exploit Hardening:** Server-side event validation, payload sanity checks, and mitigation of injection/tampering vulnerabilities.
+* ⚡ **High-Performance Lua:** Clean, modular scripting, optimized execution, and resilient game/server state management.
+* 🐍 **Python Automation:** Backend scripts, workflow automation, and custom tooling.
+* 🎨 **Front-End (Vibecoding):** Functional, pragmatic UI development focused on getting things done cleanly.
 
 ---
 
@@ -35,17 +36,3 @@ Core development focused on **Lua** and **Python** for high-performance backend 
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
-<!--
-**Jvsosa/Jvsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
