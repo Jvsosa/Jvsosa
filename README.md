@@ -32,9 +32,3 @@ Front-end não é minha praia, mas vibecodo o suficiente para a interface funcio
 </p>
 
 ---
-
-### Estatísticas
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jvsosa&theme=tokyonight" alt="Perfil Stats" width="400" />
-</p>
