@@ -36,6 +36,5 @@ Front-end não é minha praia, mas vibecodo o suficiente para a interface funcio
 ### Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jvsosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jvsosa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jvsosa&theme=tokyonight" alt="Perfil Stats" width="400" />
 </p>
