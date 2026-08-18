@@ -20,14 +20,3 @@ Front-end não é minha praia, mas vibecodo o suficiente para a interface funcio
 * **Front-end:** Puro vibecoding — focado em deixar usável e resolver o problema.
 
 ---
-
-### Contato
-
-<p align="left">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
