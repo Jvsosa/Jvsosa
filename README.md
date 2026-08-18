@@ -1,10 +1,10 @@
-# João Vitor
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Segurança-Anti--Exploit-darkred?style=flat-square" alt="Anti-Exploit" />
-</p>
+local developer = {
+    name = "João Vitor",
+    primary_language = "Lua",
+    secondary_language = "Python",
+    focus = {"Backend Architecture", "Anti-Exploit / System Security", "Automation"},
+    front_end = "Vibecoding (Pragmatic & Functional)"
+}
 
 Desenvolvedor focado em Lua e Python. Construo sistemas de backend, automações e regras de negócio com foco em segurança e proteção contra exploits — aplicando a lógica de quem conhece as brechas na prática para criar códigos que realmente seguram a onda no servidor.
 
