@@ -26,16 +26,16 @@ Front-end não é minha praia, mas vibecodo o suficiente para a interface funcio
 ### Tecnologias
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)" alt="Lua" />
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
-  <img src="[https://img.shields.io/badge/Segurança-Anti--Exploit-darkred?style=for-the-badge&logo=shield&logoColor=white](https://img.shields.io/badge/Segurança-Anti--Exploit-darkred?style=for-the-badge&logo=shield&logoColor=white)" alt="Anti-Exploit" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Seguranca-Anti--Exploit-8B0000?style=for-the-badge" alt="Anti-Exploit" />
 </p>
 
 ---
 
 ### Estatísticas
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Jvsosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Jvsosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" alt="GitHub Stats" height="145" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Jvsosa&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvsosa&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Langs" height="145" />
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jvsosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jvsosa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
 </p>
