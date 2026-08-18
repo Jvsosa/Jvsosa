@@ -1,32 +1,32 @@
 # João Vitor F 👋
-### Backend & Systems Developer
+### Desenvolvedor de Sistemas & Backend
 
-Developer focused on **Lua** and **Python**, applying an offensive-aware mindset to build robust, exploit-resistant backend systems. Skilled in spotting vulnerabilities from a practical perspective and building defensive logic.
+Desenvolvedor focado em **Lua** e **Python**, aplicando uma mentalidade prática orientada a ameaças para criar sistemas de backend robustos e resistentes a exploits. Experiência em identificar brechas sob a ótica de ataque para construir defesas eficientes e seguras.
 
 ---
 
-### 💻 Main Languages & Focus
+### 💻 Tecnologias Principais & Foco
 
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Defense%20by%20Insight-Practical_Security-critical?style=for-the-badge&logo=auth0&logoColor=white" alt="Practical Security" />
-  <img src="https://img.shields.io/badge/Anti--Exploit-Development-black?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Anti-Exploit" />
+  <img src="https://img.shields.io/badge/Segurança%20Prática-Threat%20Awareness-critical?style=for-the-badge&logo=auth0&logoColor=white" alt="Segurança Prática" />
+  <img src="https://img.shields.io/badge/Anti--Exploit-Desenvolvimento-black?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Anti-Exploit" />
 </p>
 
 ---
 
-### 🛡️ Core Capabilities
+### 🛡️ Principais Competências
 
-* ⚔️ **Practical Threat Awareness:** Experience understanding reverse logic and common exploit vectors to build resilient server architectures.
-* 🔒 **Anti-Exploit Hardening:** Server-side event validation, payload sanity checks, and mitigation of injection/tampering vulnerabilities.
-* ⚡ **High-Performance Lua:** Clean, modular scripting, optimized execution, and resilient game/server state management.
-* 🐍 **Python Automation:** Backend scripts, workflow automation, and custom tooling.
-* 🎨 **Front-End (Vibecoding):** Functional, pragmatic UI development focused on getting things done cleanly.
+* ⚔️ **Visão Prática de Vetores de Ataque:** Compreensão da lógica reversa e dos padrões comuns de exploração para estruturar defesas sólidas.
+* 🔒 **Blindagem Anti-Exploit:** Validação rígida no servidor (*server-side*), controle de integridade de dados e mitigação de manipulações indevidas.
+* ⚡ **Desenvolvimento em Lua:** Código modular, performático e otimizado para servidores e regras de negócio complexas.
+* 🐍 **Automação com Python:** Desenvolvimento de ferramentas auxiliares, automações de rotina e scripts de processamento.
+* 🎨 **Front-End (Vibecoding):** Entrega de interfaces funcionais, limpas e práticas focadas na experiência do usuário.
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Contato & Redes
 
 <p align="left">
   <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
